@@ -11,7 +11,7 @@ html {
 }
 
 .border {
-    border: solid 1px black;
+    border: solid 1px rgb(22, 181, 189);
     /* background-color: #d3d3d3; */
 }
 
@@ -36,7 +36,7 @@ aside img {
 }
 
 .grid-layout > * {
-    box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: -1px 1px 7px 0px #43ae16b9;
     border-radius: 4px;
     padding: 10px;
     text-align: center;
@@ -103,7 +103,7 @@ header{
         "footer  footer";
 }
 .navbar ul li{
-    background-color: green;
+    background-color: rgb(172, 235, 231);
     width: 200px;
     height: auto;
     padding: auto;
@@ -123,7 +123,7 @@ header{
         "footer   footer";
 }
 .navbar ul li{
-    background-color: green;
+    background-color: rgb(197, 227, 229);
     width: 100px;
     height: auto;
     padding: auto;
@@ -143,7 +143,7 @@ header{
         "footer  footer";     
 }
 .navbar ul li{
-    background-color: black;
+    background-color: rgb(207, 235, 238);
     width: 150px;
     height: auto;
     padding: auto;
